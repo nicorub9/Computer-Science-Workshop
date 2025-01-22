@@ -100,4 +100,4 @@ If you have deployed a **MONAI Label** model for inference, you will find a link
 
 
 ## Need Help?
-[Contact Us on Discord!](https://discord.gg/CTaB6H38)
+[Contact Us on Discord!](https://discord.gg/FSwyZhW49t)
