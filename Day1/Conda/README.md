@@ -25,7 +25,8 @@
   conda activate YOUR_NAME
   
   # Install requirements from the requirements.txt file
-  pip install -r requirements.txt  ```
+  pip install -r requirements.txt  
+```
 
 * Remove the environments  
 ```bash
@@ -33,6 +34,7 @@
   conda deactivate
   
   # Remove the second environment
-  conda env remove --name YOUR_NAME  ```
+  conda env remove --name YOUR_NAME  
+```
 
 **Note:** Replace `YOUR-USERNAME` and `YOUR_NAME` with your actual GitHub username and preferred environment name respectively.
