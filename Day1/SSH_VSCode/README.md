@@ -53,8 +53,10 @@ MAIA SSH connection ONLY works with an SSH key ( so password authentication is d
 AFTER  you have downloaded the private key, you can add it to your SSH agent by running the following command in your terminal:
 
 ```bash
+eval `ssh-agent -s`
 ssh-add /path/to/your/private/key
 ```
+In alternative, you can manually add the line `IdentityFile /path/to/your/private/key` to your `~/.ssh/config` file.
 
 ## Remote Jupyter Notebooks
 
