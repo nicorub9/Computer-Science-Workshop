@@ -72,7 +72,7 @@ Additionally, the MAIA platform provides access to a range of cloud services and
 - **KubeFlow**: An open-source platform for deploying machine learning workflows on Kubernetes.
 
 ## How to use MAIA?
-For the tutorial series we will use a dedicated cluster, available for the participants of the tutorial. You can access the Home Page of the MAIA platform at this link: [MAIA Home Page](https://maia-cloud.com/)
+For the tutorial series we will use a dedicated cluster, available for the participants of the tutorial. You can access the Home Page of the MAIA platform at this link: [MAIA Home Page](https://maia-cloud.com/maia/)
 
 ![MAIA Home Page](MAIA_Home.png)
 ### Step 1: Create a Project (Optional)
@@ -100,4 +100,4 @@ If you have deployed a **MONAI Label** model for inference, you will find a link
 
 
 ## Need Help?
-[Contact Us on Discord!](https://discord.gg/CTaB6H38)
+[Contact Us on Discord!](https://discord.gg/FSwyZhW49t)
