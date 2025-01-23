@@ -17,6 +17,6 @@ This workshop is designed to introduce you to the basics of computer science and
 ### Day 2 [24 January 2025]
 
 - **09:00-09:30** - [Introduction to TensorFlow, PyTorch, and MONAI](Day2/ML-framworks/README.md)
-- **09:30-10:00** - [Advanced Terminal Use]
+- **09:30-10:00** - [Advanced Terminal Use](Day2/Shell-Part-2/README.md)
 - **10:00-11:00** - [Introduction to Slurm]
 - **11:00-12:00** - [Troubleshooting and Debugging ML Training]
