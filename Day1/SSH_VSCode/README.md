@@ -58,7 +58,36 @@ ssh-add /path/to/your/private/key
 
 ## Remote Jupyter Notebooks
 
+Now it's time to try running a Jupyter notebook on MAIA. Create a new file by clicking on the `New File` icon on the left-hand side of the window. Then, copy and paste the following code into the new file:
+
+```python
+import numpy as np
+
+array = np.random.randn(10)
+print(np.mean(array))
+print(np.std(array))
+```
+And try to select the default Python Kernel.
+
+If NumPy is not installed on your MAIA environment, you can install it by running the following command in the terminal:
+
+```bash
+pip install numpy
+```
+or, from the notebook itself:
+
+```python
+!pip install numpy
+```
+
 
 ## Remote Python Scripts
+Now let's try to run the same code snippet as a Python script on MAIA. Please note which Python interpreter you are using. You can check this by clicking on the Python version in the bottom left corner of the window. Or, alternatively, you can run the following command in the terminal:
+
+```bash
+which python
+```
 
 ## Remote Debugger
+
+Debugging is an essential part of the development process. VSCode has a powerful debugger that can be used to debug Python code on MAIA. To start the debugger, click on the `Run and Debug` icon on the left-hand side of the window. Then, click on the `Run and Debug` button. You can set breakpoints by clicking on the line number where you want to stop the execution of the code. Then, click on the `Start Debugging` button to start the debugger.
