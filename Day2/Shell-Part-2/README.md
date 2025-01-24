@@ -49,7 +49,7 @@ Access: ${array_name[index]}
 1. Create a fork of: https://github.com/kthcloud/Computer-Science-Workshop/
 2. Clone the repo to your local computer
 3. Go to the Day2/Shell-Part-2 folder
-4. Make the example_script.sh executable and try to run it
+4. Make the example_script.sh executable and try to run it (put ./ before the name)
 5. Write a second bash script that:
    - Counts to 40
    - Generates a random number for each index using: `random_number=$((RANDOM))`
